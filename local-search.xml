@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>Markdown语法练习</title>
+    <link href="/2020/03/16/practice_markdown/"/>
+    <url>/2020/03/16/practice_markdown/</url>
+    
+    <content type="html"><![CDATA[<p>一些基础的markdown语法练习</p><a id="more"></a><h1 id="热爱生活，懂得感恩"><a href="#热爱生活，懂得感恩" class="headerlink" title="热爱生活，懂得感恩"></a>热爱生活，懂得感恩</h1><h2 id="热爱生活，懂得感恩-1"><a href="#热爱生活，懂得感恩-1" class="headerlink" title="热爱生活，懂得感恩"></a>热爱生活，懂得感恩</h2><p><em>空气很稀薄，因为寂寞</em><br><em>空气很稀薄，因为寂寞</em></p><p><strong>空气很稀薄，因为寂寞</strong><br><strong>空气很稀薄，因为寂寞</strong></p><p><strong><em>空气很稀薄，因为寂寞</em></strong><br><strong><em>空气很稀薄，因为寂寞</em></strong></p><hr><hr><hr><hr><hr><p><del>你不在的世界里都是阴天，思念像太用力会拉扯的线</del></p><p><u>脆弱是，若无其事晴天里，突然的大雨</u></p><p>别说我说慌，人生已经如此的艰难，有些事情就不要拆穿。[^life]<br>[^life]:出自林宥嘉的《说谎》</p><ul><li>第一项</li><li>第二项</li><li>第三项</li></ul><ul><li>第一项</li><li>第二项</li><li>第三项</li></ul><ul><li>第一项</li><li>第二项</li><li>第三项</li></ul><ol start="5"><li><p>第一项</p></li><li><p>第二项</p></li><li><p>第三项  </p></li><li><p>第一项：</p><ol><li>第一项嵌套的第一个元素</li><li>第一项嵌套的第二个元素</li></ol></li><li><p>第二项：</p><ol><li>第二项嵌套的第一个元素</li><li>第二项嵌套的第二个元素</li></ol></li></ol><blockquote><p>我说所有的酒，都不如你<br>春风十里<br>不加空格好像也可以</p></blockquote><blockquote><p>想看看你的心</p><blockquote><p>记录谁的表情</p><blockquote><p>计算我差多少的距离</p></blockquote></blockquote></blockquote><ol><li>周杰伦<blockquote><p>《一路向北》<br>《世界末日》</p></blockquote></li><li>许嵩</li></ol><p><code>我就是我，是颜色不一样的烟火</code></p><pre><code class="javascript">$(document).ready(function () {    alert(&#39;RUNOOB&#39;);});</code></pre><pre><code>$(document).ready(function () {    alert(&#39;RUNOOB&#39;);});</code></pre><p>$(document).ready(function () {<br>    alert(‘这样是不行的’);<br>});</p><p><a href="https://www.baidu.com/" target="_blank" rel="noopener">我寻你千百度，日出到迟暮</a><br><code>或者</code><br><a href="https://www.baidu.com/" target="_blank" rel="noopener">https://www.baidu.com/</a><br><code>或者</code><br><a href="https://www.baidu.com/" target="_blank" rel="noopener">众里寻他千百度，那人却在灯火阑珊处</a></p><p><img src="http://static.runoob.com/images/runoob-logo.png" srcset="/img/loading.gif" alt="RUNOOB 图标"><br><code>or</code><br><img src="http://static.runoob.com/images/runoob-logo.png" srcset="/img/loading.gif" alt="RUNOOB 图标" title="RUNOOB"><br><code>or</code><br>这个链接用 1 作为网址变量 <a href="http://static.runoob.com/images/runoob-logo.png" target="_blank" rel="noopener">RUNOOB</a>.<br>然后在文档的结尾为变量赋值（网址）</p><p><code>如果要指定具体的宽高，则：</code><br><img src="https://static.runoob.com/images/runoob-logo.png" srcset="/img/loading.gif" width="50%"></p><table><thead><tr><th>表头默认是左对齐？</th><th>表头</th></tr></thead><tbody><tr><td>单元格</td><td>单元格</td></tr><tr><td>单元格</td><td>单元格</td></tr><tr><td>单元格</td><td>单元格</td></tr></tbody></table><table><thead><tr><th align="left">左对齐加长才体现效果</th><th align="right">右对齐加长才体现效果</th><th align="center">居中对齐加长才体现效果</th></tr></thead><tbody><tr><td align="left">单元格</td><td align="right">单元格</td><td align="center">单元格</td></tr><tr><td align="left">单元格</td><td align="right">单元格</td><td align="center">单元格</td></tr></tbody></table><p><em>使</em><i>用</i><br> <kbd>Ctrl</kbd>+<sub>Alt</sub>+<sup>Del</sup> 重启<b>电脑</b></p><p><strong>后视镜里的世界</strong><br>** 越来越远的道别 **</p><p>$$y = k x + b \tag{1}$$</p><p><a href="https://blog.csdn.net/Jiajikang_jjk/article/details/80341322" target="_blank" rel="noopener">公式</a></p><p><a href="https://www.runoob.com/markdown/md-advance.html" target="_blank" rel="noopener">图表</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>parctice</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>markdown</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
